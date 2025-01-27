@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DCFB09E0-179A-4C6F-B4B9-80FC744B4F31}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{DCFB09E0-179A-4C6F-B4B9-80FC744B4F31}|C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCFB09E0-179A-4C6F-B4B9-80FC744B4F31}|\u00C7\u00F6z\u00FCm \u00D6\u011Feleri{DCFB09E0-179A-4C6F-B4B9-80FC744B4F31}|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24AB8C0D-6C40-43EF-8120-E7024F2B1DC2}|BinarySearchTreeProject.vcxproj|C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\BinarySearchTreeProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{24AB8C0D-6C40-43EF-8120-E7024F2B1DC2}|BinarySearchTreeProject.vcxproj|solutionrelative:BinarySearchTreeProject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T17:53:58.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BinarySearchTreeProject.cpp",
+              "DocumentMoniker": "C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\BinarySearchTreeProject.cpp",
+              "RelativeDocumentMoniker": "BinarySearchTreeProject.cpp",
+              "ToolTip": "C:\\Users\\rhn23\\source\\repos\\BinarySearchTreeProject\\BinarySearchTreeProject.cpp",
+              "RelativeToolTip": "BinarySearchTreeProject.cpp",
+              "ViewState": "AgIAAJAAAAAAAAAAAAAqwKAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-01-27T17:51:12.862Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
